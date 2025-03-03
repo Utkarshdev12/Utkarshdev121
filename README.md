@@ -27,7 +27,4 @@
 
 ---
 
-If not engineering software products, I create reels on Instagram ([`@kabirstack`](https://instagram.com/kabirstack))
 
-- 🕸 [`X@KabirAsani`](https://twitter.com/KabirAsani) • [`LinkedIn`](https://www.linkedin.com/in/kabirasani/)
-- ⚡ I hail from [`India (🇮🇳)`](https://en.wikipedia.org/wiki/India) which houses one of the [`7 wonders`](https://en.wikipedia.org/wiki/Taj_Mahal)!
