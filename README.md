@@ -23,9 +23,7 @@
 
 
 ### Projects
-- [`AI Shorts (Byte-sized AI News)`](https://aishorts.club/)
-- [`Togger (Tinder for Shopping)`](https://toggerclub.com)
-- [`Silicon (Swift DSL)`](https://github.com/kabir-asani/Silicon)
+- 'Second Brain'
 
 ---
 
